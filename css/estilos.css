@@ -209,12 +209,12 @@ input[type="submit"]{
 
 /*Media queris*/
 @media(max-width: 768px){
-    header #marca,
+    header#marca,
     header nav,
     header nav li,
     #boletin h1,
     #boletin form,
-    #cajas .caja,
+    #cajas.caja,
     article#main-col,
     aside#lateral{
         float: none;
